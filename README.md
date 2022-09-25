@@ -1,2 +1,1 @@
-# v14-Public-Ekip-Bots
-Selam bu repoda insanlara kullanması için yazdığım botların açık kaynak kodlarını vereceğim.
+**Pek fazla bişey kalmadı proje içerisinde sadece token ve mongo urlsini yazıp gerisini komutlar aracılığı ile ayarlayabileceğiniz mükemmel sistemler burada olacak. güzel star gelirse paylaşırım yoksam yok. Tanıyan tanır. Maksat burdakileri görmek ben star alıp paylaşmazlık yapmam saygılarla biricik anneniz stark.**
